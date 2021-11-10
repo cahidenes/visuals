@@ -15,3 +15,7 @@ https://github.com/cahidenes/dynamic_variables
 ## Rubiks Cube Solver
 ![Demo1](https://github.com/cahidenes/visuals/blob/main/rubiks-cube-solver.gif?raw=true)
 https://github.com/cahidenes/rubiks-cube-solver
+
+## Adhan Peek
+![Demo1](https://github.com/cahidenes/visuals/blob/main/adhan-peek.gif?raw=true)
+https://github.com/cahidenes/adhan-peek
