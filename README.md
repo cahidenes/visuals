@@ -16,7 +16,7 @@ https://github.com/cahidenes/matrix-cam
 ![Demo2](https://github.com/cahidenes/visuals/blob/main/dynamic_variables2.0_2.png?raw=true)
 ![Demo3](https://github.com/cahidenes/visuals/blob/main/dynamic_variables2.0_3.png?raw=true)
 ![Demo4](https://github.com/cahidenes/visuals/blob/main/dynamic_variables2.0_4.png?raw=true)
-https://github.com/cahidenes/visuals/blob/main/dynamic_variables2.mp4?raw=true
+https://github.com/cahidenes/visuals/blob/main/dynamic_variables2.mp4
 https://github.com/cahidenes/dynamic_variables
 
 ## Rubiks Cube Solver
